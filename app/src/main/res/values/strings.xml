@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SunRising</string>
+    <string-array name="Cost">
+        <item>Today</item>
+        <item>Meals</item>
+        <item>Clothing</item>
+        <item>Traffic</item>
+        <item>Entertainment</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
